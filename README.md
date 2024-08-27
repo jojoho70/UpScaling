@@ -6,4 +6,4 @@ This is a build-up for my plans on an image stitcher. These enhancements make it
 
 [OpenCV Documentation on Non-Local Means Denoising](https://docs.opencv.org/4.x/d5/d69/tutorial_py_non_local_means.html)
 
-At the time, this functionality didn't exist. The fact that I considered using filters before training models to enhance the dataset was a key factor in getting the internship.
+At the time, I didnt see this. The fact that I considered using filters before training models to enhance the dataset was a key factor in getting the internship.
